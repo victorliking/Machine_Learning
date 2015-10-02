@@ -1,1 +1,1 @@
-# Machine_Learning UIUC Fall 2015
+# Machine Learning Class UIUC Fall 2015
