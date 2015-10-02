@@ -1,2 +1,2 @@
 # Machine Learning Class
-#All detail description can be found on the UIUC CS225.
+All detail description can be found on the UIUC CS446 website.
