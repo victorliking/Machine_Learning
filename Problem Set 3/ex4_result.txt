@@ -1,0 +1,6 @@
+the data for modified 
+accuracy: 99.630000 99.450000 99.390000 
+modified best rate: 0.030000 0.001000 1.500000 
+the data for normal 
+accuracy: 99.860000 90.000000 99.590000 
+best rate: 0.030000 0.001000 0.250000 

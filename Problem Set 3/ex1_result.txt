@@ -1,0 +1,13 @@
+the data for perceptron margin
+max accuracy: 98.220000 96.260000 
+best rate: 0.050000 0.030000 
+the data for winnow
+max accuracy: 99.680000 99.720000 
+best rate: 1.100000 1.100000 
+the data for winnow margin
+max accuracy: 99.900000 99.720000 
+best margin: 2.000000 0.040000 
+best alpha: 1.100000 1.100000 
+the data for adagrad
+max accuracy: 98.240000 99.300000 
+best rate: 0.250000 0.250000 
